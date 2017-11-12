@@ -1,15 +1,15 @@
 # Fdb version 3
-["bibtex 2017.2-template_artigo"] 1510350923 "2017.2-template_artigo.aux" "2017.2-template_artigo.bbl" "2017.2-template_artigo" 1510497386
+["bibtex 2017.2-template_artigo"] 1510504407 "2017.2-template_artigo.aux" "2017.2-template_artigo.bbl" "2017.2-template_artigo" 1510504408
   "/usr/share/texlive/texmf-dist/bibtex/bst/beebe/humannat.bst" 1136766823 25147 496ce0896c6f381827ee929b14714830 ""
-  "2017.2-template_artigo.aux" 1510497386 9552 73a860db52d7bf47cdd81a8c7c6f2997 ""
+  "2017.2-template_artigo.aux" 1510504407 9638 bd53c4bda5e55cb09ce8da9e9397cdd4 ""
   "2017.2-template_artigo.bcf" 0 -1 0 ""
   "InfoSoc20172.bib" 1510336753 47371 0b6d416ac125f02e8bc1432171f9c1be ""
   (generated)
   "2017.2-template_artigo.bbl"
   "2017.2-template_artigo.blg"
-["pdflatex"] 1510497385 "2017.2-template_artigo.tex" "/home/andre/UnB/InfSoc/TrabalhoFinal/2017.2-template_artigo.pdf" "2017.2-template_artigo" 1510497386
+["pdflatex"] 1510504407 "2017.2-template_artigo.tex" "/home/andre/UnB/InfSoc/TrabalhoFinal/2017.2-template_artigo.pdf" "2017.2-template_artigo" 1510504408
   "/etc/texmf/web2c/texmf.cnf" 1490132415 1101 af7716885e081ab43982cab7b4672c1a ""
-  "/home/andre/UnB/InfSoc/TrabalhoFinal/2017.2-template_artigo.aux" 1510497386 9552 73a860db52d7bf47cdd81a8c7c6f2997 ""
+  "/home/andre/UnB/InfSoc/TrabalhoFinal/2017.2-template_artigo.aux" 1510504407 9638 bd53c4bda5e55cb09ce8da9e9397cdd4 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1136768653 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -28,7 +28,6 @@
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmti12.tfm" 1136768653 1484 ed72f8f5cf654cda15ecc8e32bfcbee5 ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb" 1248133631 34811 78b52f49e893bcba91bd7581cdc144c0 ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1248133631 32080 340ef9bf63678554ee606688e7b5339d ""
-  "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb" 1248133631 36741 fa121aac0049305630cf160b86157ee4 ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1248133631 35752 024fb6c41858982481f6968b5fc26508 ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb" 1248133631 32722 d7379af29a190c3f453aba36302ff5a9 ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb" 1248133631 32362 179c33bbf43f19adbb3825bb4e36e57a ""
@@ -82,16 +81,16 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1503343927 31343 93828589fb0cea665e553ee5a17ad2d4 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1503853163 1863403 f3ff9a4253bcb5fb9a9baaf0c572cb01 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1503853172 3859955 09e0e0e16ae6eb16a76660757e2ce888 ""
-  "2017.2-template_artigo.aux" 1510497386 9552 73a860db52d7bf47cdd81a8c7c6f2997 ""
-  "2017.2-template_artigo.bbl" 1510350923 11918 03e13283dda5723828bd3d89134ece54 "bibtex 2017.2-template_artigo"
-  "2017.2-template_artigo.out" 1510497386 1542 c363d2c4c9953fb4e8e834fdabd84928 ""
-  "2017.2-template_artigo.tex" 1510497384 22431 a016fff98665b8612e74c522266e401d ""
+  "2017.2-template_artigo.aux" 1510504407 9638 bd53c4bda5e55cb09ce8da9e9397cdd4 ""
+  "2017.2-template_artigo.bbl" 1510504407 11918 03e13283dda5723828bd3d89134ece54 "bibtex 2017.2-template_artigo"
+  "2017.2-template_artigo.out" 1510504407 1565 f84856adcb5664116f1f65d05a489039 ""
+  "2017.2-template_artigo.tex" 1510504407 21566 c68e860cd3d4bfe3d37e8ff61da5dd2f ""
   "EDB_RELATORIO_FINAL-rev-12-07-2017.pdf" 1510336753 6356266 79c8b810d1a0af4802247e65becf96c1 ""
   "piada-codigodebarras.JPG" 1510336753 46581 9484949f8f24b7adf072bc6392801d55 ""
   (generated)
-  "/home/andre/UnB/InfSoc/TrabalhoFinal/2017.2-template_artigo.log"
-  "2017.2-template_artigo.out"
-  "2017.2-template_artigo.aux"
   "2017.2-template_artigo.log"
   "/home/andre/UnB/InfSoc/TrabalhoFinal/2017.2-template_artigo.pdf"
   "2017.2-template_artigo.pdf"
+  "/home/andre/UnB/InfSoc/TrabalhoFinal/2017.2-template_artigo.log"
+  "2017.2-template_artigo.out"
+  "2017.2-template_artigo.aux"
