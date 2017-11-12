@@ -1,0 +1,48 @@
+This is BibTeX, Version 0.99d (TeX Live 2015/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: 2017.2-template_artigo.aux
+The style file: humannat.bst
+Database file #1: InfoSoc20172.bib
+Warning--empty booktitle in moller_exploring_2014
+You've used 39 entries,
+            2155 wiz_defined-function locations,
+            686 strings with 10370 characters,
+and the built_in function-call counts, 15626 in all, are:
+= -- 1590
+> -- 459
+< -- 30
++ -- 176
+- -- 158
+* -- 1442
+:= -- 2653
+add.period$ -- 119
+call.type$ -- 39
+change.case$ -- 273
+chr.to.int$ -- 37
+cite$ -- 40
+duplicate$ -- 567
+empty$ -- 1162
+format.name$ -- 219
+if$ -- 3032
+int.to.chr$ -- 3
+int.to.str$ -- 0
+missing$ -- 39
+newline$ -- 199
+num.names$ -- 119
+pop$ -- 179
+preamble$ -- 1
+purify$ -- 273
+quote$ -- 0
+skip$ -- 439
+stack$ -- 0
+substring$ -- 1380
+swap$ -- 96
+text.length$ -- 2
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 232
+warning$ -- 1
+while$ -- 155
+width$ -- 0
+write$ -- 512
+(There was 1 warning)
